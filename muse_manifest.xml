@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 <manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vivian2varanda.com" resolutions="1x" timestamp="1498840782649">
   <folder name="css">
     <file name="site_global.css" crc="3846977961"/>
     <file name="master_a-master.css" crc="4126320475" ref="index"/>
     <file name="index.css" crc="241255389" ref="index"/>
+=======
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vivian2varanda.com" resolutions="1x" timestamp="1498839663757">
+  <folder name="css">
+    <file name="site_global.css" crc="3846977961"/>
+    <file name="master_a-master.css" crc="4126320475" ref="index"/>
+    <file name="index.css" crc="328698060" ref="index"/>
+>>>>>>> origin/master
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -56,5 +64,9 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
+<<<<<<< HEAD
   <file name="index.html" crc="4275110882" seo="true" mt="1498840735387" redirect="true"/>
+=======
+  <file name="index.html" crc="3976105915" seo="true" mt="1498839454353" redirect="true"/>
+>>>>>>> origin/master
 </manifest>
