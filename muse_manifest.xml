@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vivian2varanda.com" resolutions="1x" timestamp="1498840782649">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vivian2varanda.com" resolutions="1x" timestamp="1498842320774">
   <folder name="css">
     <file name="site_global.css" crc="3846977961"/>
     <file name="master_a-master.css" crc="4126320475" ref="index"/>
@@ -56,5 +56,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4275110882" seo="true" mt="1498840735387" redirect="true"/>
+  <file name="index.html" crc="207791162" seo="true" mt="1498842298891" redirect="true"/>
 </manifest>
