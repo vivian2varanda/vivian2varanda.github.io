@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://vivian2varanda.com/index.html</loc>
-    <lastmod>2017-04-22</lastmod>
+    <lastmod>2017-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://vivian2varanda.com/images/untitleda-2-crop-u457.jpg</image:loc>
+      <image:loc>http://vivian2varanda.com/images/untitleda-2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vivian2varanda.com/images/b-m%20(124)-crop-u320.jpg</image:loc>
+      <image:loc>http://vivian2varanda.com/images/b-m%20(124).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vivian2varanda.com/images/b-m%20(4)-crop-u126.jpg</image:loc>
+      <image:loc>http://vivian2varanda.com/images/b-m%20(4).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vivian2varanda.com/images/b-m%20(106)-crop-u294.jpg</image:loc>
+      <image:loc>http://vivian2varanda.com/images/b-m%20(106).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vivian2varanda.com/images/b-m%20(157)-crop-u346.jpg</image:loc>
+      <image:loc>http://vivian2varanda.com/images/b-m%20(157).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vivian2varanda.com/images/img_0309-crop-u372.jpg</image:loc>
+      <image:loc>http://vivian2varanda.com/images/img_0309.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vivian2varanda.com/images/img_0901-crop-u398.jpg</image:loc>
+      <image:loc>http://vivian2varanda.com/images/img_0901.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vivian2varanda.com/images/img_0950-crop-u424.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vivian2varanda.com/images/1492935435_marry.svg</image:loc>
+      <image:loc>http://vivian2varanda.com/images/img_0950.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://vivian2varanda.com/images/1492935357_cake-wedding.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vivian2varanda.com/images/1492935435_marry.svg</image:loc>
     </image:image>
   </url>
 </urlset>
