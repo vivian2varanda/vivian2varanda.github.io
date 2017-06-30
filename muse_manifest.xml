@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vivian2varanda.com" resolutions="1x" timestamp="1498845159431">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vivian2varanda.com" resolutions="1x" timestamp="1498855981658">
   <folder name="css">
     <file name="site_global.css" crc="3846977961"/>
-    <file name="master_a-master.css" crc="430414563" ref="index"/>
-    <file name="index.css" crc="111309296" ref="index"/>
+    <file name="master_a-master.css" crc="134735982" ref="index"/>
+    <file name="index.css" crc="245305242" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -16,10 +16,6 @@
     <file name="jquery.watch.js" crc="3844535323" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
     <file name="require.js" crc="4234670167" ref="index"/>
-    <file name="form_check.php" crc="3841221102" ref="index"/>
-    <file name="form_throttle.php" crc="4048049783" ref="index"/>
-    <file name="form_process.php" crc="3899230280" ref="index"/>
-    <file name="form-u1785.php" crc="129863803" ref="index"/>
   </folder>
   <folder name="images">
     <file name="untitleda-2.jpg" crc="4194450170" seo="true" ref="index">
@@ -60,5 +56,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="529923977" seo="true" mt="1498844935373" redirect="true"/>
+  <file name="index.html" crc="4243363614" seo="true" mt="1498855877503" redirect="true"/>
 </manifest>
