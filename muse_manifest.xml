@@ -1,0 +1,60 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vivian2varanda.com" resolutions="1x" timestamp="1501769717125">
+  <folder name="css">
+    <file name="site_global.css" crc="3846977961"/>
+    <file name="master_a-master.css" crc="134735982" ref="index"/>
+    <file name="index.css" crc="3996920719" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="untitleda-2.jpg" crc="4194450170" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="b-m (124).jpg" crc="4138889031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b-m (4).jpg" crc="72696558" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b-m (106).jpg" crc="407229884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b-m (157).jpg" crc="3808576267" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0309.jpg" crc="4110871339" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0901.jpg" crc="4012166427" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0950.jpg" crc="4189119714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="1492935357_cake-wedding.svg" crc="175624937" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1492935357_cake-wedding_poster_.png" crc="159174783" ref="index"/>
+    <file name="1492935435_marry.svg" crc="3980193948" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1492935435_marry_poster_.png" crc="3856296816" ref="index"/>
+    <file name="modern-bedroom.jpg" crc="4194757996" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="392935609" seo="true" mt="1501769640611" redirect="true"/>
+</manifest>
